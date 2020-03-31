@@ -1,3 +1,3 @@
 # TestGit
 Just a project testing GitHub
-Okay
+and I'm trying to get this to work
